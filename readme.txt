@@ -7,3 +7,4 @@ line inserted in branch feat-02
 line inserted in branch feat-03
 line inserted in branch feat-04
 line inserted in branch feat-05
+line inserted in branch develop, on purpose, before PR feat-06
