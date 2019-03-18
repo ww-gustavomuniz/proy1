@@ -14,3 +14,4 @@ line inserted once again in branch feat-07
 line inserted in branch develop, while exists branch feat-07
 line inserted in branch develop, while exists branch feat-08
 line inserted in branch feat-08
+line inserted in branch feat-09
