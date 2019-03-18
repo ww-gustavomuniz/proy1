@@ -12,4 +12,4 @@ line inserted in branch feat-06
 line inserted in branch feat-07
 line inserted once again in branch feat-07
 line inserted in branch develop, while exists branch feat-07
-
+line inserted in branch develop, while exists branch feat-08
