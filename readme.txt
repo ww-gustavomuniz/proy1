@@ -18,4 +18,3 @@ line inserted in branch feat-09
 line inserted in branch develop, while exists branch feat-09
 line inserted in branch feat-10
 line inserted in branch develop, while exists branch feat-10
-line inserted in branch feat-12
