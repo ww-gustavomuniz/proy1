@@ -33,4 +33,3 @@ creado en la branch mal y comiteado
 creado en la branch renombrada
 aca deberia haber conflicto
 conflicto 2 (feature)
-linea conflictiva (develop)
