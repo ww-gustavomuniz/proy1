@@ -31,5 +31,5 @@ branch develop
 branch test-merge
 creado en la branch mal y comiteado
 creado en la branch renombrada
-aca deberia haber conflicto (feature/prueba-revert)
-conflicto en esta linea (develop)
+aca deberia haber conflicto
+
