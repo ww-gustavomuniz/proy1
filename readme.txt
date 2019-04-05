@@ -35,3 +35,6 @@ aca deberia haber conflicto
 conflicto 2 (feature)
 --------- nueva prueba revert
 cambio en branch feature/revert-III
+-----------------------
+en branch feature-padre
+
