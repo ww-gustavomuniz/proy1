@@ -1,2 +1,5 @@
 primer commit
+se hizo push, creo la rama en el repo remoto y ahora esto es el segundo commit, SIN PUSH
+tercer commit
+cuarto commit
 
