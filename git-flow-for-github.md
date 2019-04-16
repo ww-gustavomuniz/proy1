@@ -8,6 +8,7 @@ something has been modified 2
 something has been deleted 2
 
 ### Security
+fixing vulnerabilities
 
 ### Fixed
 
